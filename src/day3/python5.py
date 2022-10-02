@@ -1,6 +1,5 @@
-# age test 4
-
-age = -1
+# age test 5
+age = int(input("Enter your age: "))
 
 if 0 <= age <= 12:
     print("Child")
